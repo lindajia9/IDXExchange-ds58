@@ -1,4 +1,4 @@
-# IDX-ds58
+
 # California Property Close Price Prediction
 
 ## Project Overview
