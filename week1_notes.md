@@ -1,6 +1,6 @@
 # Week 1 — Orientation & Setup
 
-## confirmed data access
+## (confirmed data access)
 ## Key Columns
 
 **ListingKey**
