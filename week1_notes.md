@@ -6,9 +6,6 @@
 **ListingKey**
 - the primary key and uniquely identifies records in the Property resource
 
-**ListPrice**
-- the current price of the property
-
 **ClosePrice**
 - the final price the property actually sells for
 
