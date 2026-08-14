@@ -14,7 +14,7 @@ st.set_page_config(
     layout="centered"
 )
 
-MODEL_PATH = Path("model.pkl")
+MODEL_PATH = Path("model1.pkl")
 
 st.title("🏠 California Home Price Predictor")
 st.write(
@@ -33,8 +33,8 @@ rf_model = load_model()
 
 if rf_model is None:
     st.error(
-        "model.pkl was not found. Put the trained Random Forest model "
-        "file (model.pkl) in the same GitHub repository as app.py."
+        "model1.pkl was not found. Put the trained Random Forest model "
+        "file (model1.pkl) in the same GitHub repository as app.py."
     )
     st.stop()
 
