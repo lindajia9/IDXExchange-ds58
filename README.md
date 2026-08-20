@@ -8,3 +8,11 @@ This project focuses on developing a machine learning pipeline to predict the fi
 * Extract, clean, and preprocess historical CRMLS property data.
 * Engineer regional and spatial features, including local school district layers.
 * Train and evaluate multiple machine learning algorithms (Linear Regression, Decision Trees, Random Forests, and Gradient Boosting).
+
+## Dataset source
+
+## Preprocessing
+
+## Models Tested
+
+## Best Results
