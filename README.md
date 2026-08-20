@@ -179,8 +179,20 @@ The project is organized into Jupyter notebooks that should be run in order.
 
 Make sure Python is installed and install the required packages:
 
-```bash
 pip install pandas numpy scikit-learn xgboost geopandas shapely matplotlib
 
-### 2. 
+### 2. Download the necessary datasets
+
+The following datasets are required to run the notebooks:
+
+- **CRMLS real estate datasets** — historical residential property transaction data
+- **California Unified School District boundary data** — used to assign each property to a school district based on latitude and longitude
+
+### 3. Run all notebooks in order
+
+Open the ipynb files and run all cells from beginning to end
+
+### 4. Launch the app
+
+Access the app through the link: https://idxexchange-ds58-california-house-price-predictor-v1.streamlit.app/
 
