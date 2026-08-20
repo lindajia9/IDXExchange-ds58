@@ -169,3 +169,18 @@ It achieved:
 The Random Forest explained approximately **76.6% of the variation in property ClosePrice** on the test set and had the lowest error across all three percentage-based and absolute-error metrics.
 
 Therefore, the **Random Forest model was selected as the final model** for predicting residential property ClosePrice.
+
+
+## Instructions to Re-run the Code
+
+The project is organized into Jupyter notebooks that should be run in order.
+
+### 1. Install the required packages
+
+Make sure Python is installed and install the required packages:
+
+```bash
+pip install pandas numpy scikit-learn xgboost geopandas shapely matplotlib
+
+### 2. 
+
